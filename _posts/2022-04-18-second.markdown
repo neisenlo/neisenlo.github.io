@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "My second blog post: no more help needed!."
+title:  "Nick Eisenlohr | Blog"
 date:   2022-04-18 20:32:48 -0400
 categories: jekyll update
-permaling: /blog/p2/
+heading: "My second blog post: no more help needed!"
+permalink: /blog/p2/
 ---
 
 Already on to my second post. I think I'm doing alright. I might've gotten the hang of this site generator thingy. Will update soon.
