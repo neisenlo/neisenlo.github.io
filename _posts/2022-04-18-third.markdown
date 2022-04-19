@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Nick Eisenlohr | Post #3"
+date:   2022-04-18 20:32:48 -0400
+categories: jekyll update
+heading: "Is this even automated?"
+permalink: /blog/p3/
+---
+
+I think this is what I'm supposed to be doing. Not a thousand percent sure though. Guess we will see
