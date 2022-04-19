@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nick Eisenlohr | Blog"
+title:  "Nick Eisenlohr | Post #2"
 date:   2022-04-18 20:32:48 -0400
 categories: jekyll update
 heading: "My second blog post: no more help needed!"
