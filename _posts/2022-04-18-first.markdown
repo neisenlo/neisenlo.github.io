@@ -3,7 +3,7 @@ layout: post
 title:  "My first blog post: help wanted?."
 date:   2022-04-18 20:30:46 -0400
 categories: jekyll update
-permaling: /p1/
+permaling: /blog/p1/
 ---
 
 This is my first blog post ever! I'm attempting to make a static site generator. Not sure if this is working or if I'm doing this right.
